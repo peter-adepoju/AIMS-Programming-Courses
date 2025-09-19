@@ -20,7 +20,7 @@ I contributed to a group project, titled **“Animating the Planets Orbiting Aro
 ## Repository Structure
 - `exercises/` – solutions to in-class exercises and homeworks  
 - `practice/` – my personal exploration of concepts in sagemath  
-- `project/` – final group project (planetary animation)  
+- `mini-project/` – final group project (planetary animation)  
 
 ## Getting Started
 To explore the notebooks, install [SageMath](https://www.sagemath.org/) and open the `.ipynb` files in Jupyter Notebook or JupyterLab.
