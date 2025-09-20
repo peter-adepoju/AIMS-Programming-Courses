@@ -82,10 +82,10 @@ The analysis was conducted in Python, primarily using the `networkx` library for
 
 This project was a collaborative effort by a group of four students for the Networks course at AIMS South Africa.
 
-- **Peter Oluwafemi Adepoju** ([@Peter Adepoju](https://github.com/peter-adepoju))
-- Isaiah Anuoluwapo Aremu ([Isaiah Aremu](https://www.linkedin.com/in/isaiah-anuoluwapo-aremu-1a7301305))
-- Morongwa Ralefeta([Morongwa Ralefeta](https://www.linkedin.com/in/morongwa-ralefeta-85b27021b))
-- Anjoreoluwa Boluwajoko ([Anjoreoluwa Boluwajoko](https://www.linkedin.com/in/anjoreoluwa-boluwajoko-0050b9160))
+- ([**Peter Adepoju**](https://github.com/peter-adepoju))
+- ([Isaiah Aremu](https://www.linkedin.com/in/isaiah-anuoluwapo-aremu-1a7301305))
+- ([Morongwa Ralefeta](https://www.linkedin.com/in/morongwa-ralefeta-85b27021b))
+-  ([Anjoreoluwa Boluwajoko](https://www.linkedin.com/in/anjoreoluwa-boluwajoko-0050b9160))
 
 ## References
 
