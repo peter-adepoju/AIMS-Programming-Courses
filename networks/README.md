@@ -24,7 +24,8 @@ This study analyzes fMRI datasets of the human brain before (Day 1) and after (D
 ├── plot/Pictures/
 │   └── ...              # Images and plots generated during the analysis
 ├── Brain Network Dynamics Analysis.ipynb  # Jupyter Notebook with the complete Python code
-└── Brain Network Dynamics Analysis.pdf    # The final project report
+├── Brain Network Dynamics Analysis.pdf    # The final project report
+└── presentation_slide.pdf                 # The group presentation slides
 ```
 
 ## Dataset
